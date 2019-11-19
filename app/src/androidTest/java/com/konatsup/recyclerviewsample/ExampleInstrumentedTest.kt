@@ -1,4 +1,4 @@
-package com.konatsup.realmtodo
+package com.konatsup.recyclerviewsample
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

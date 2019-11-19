@@ -1,4 +1,4 @@
-package com.konatsup.realmtodo
+package com.konatsup.recyclerviewsample
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

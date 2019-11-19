@@ -1,4 +1,4 @@
-package com.konatsup.realmtodo
+package com.konatsup.recyclerviewsample
 
 import android.content.Context
 import android.view.LayoutInflater

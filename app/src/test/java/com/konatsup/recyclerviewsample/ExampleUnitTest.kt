@@ -1,4 +1,4 @@
-package com.konatsup.realmtodo
+package com.konatsup.recyclerviewsample
 
 import org.junit.Test
 
